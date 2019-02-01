@@ -1,0 +1,18 @@
+.datepicker .datepicker-col-1{
+  margin: 0;
+}
+.datepicker .datepicker-content{
+  padding: .5em 22.25em;
+}
+.datepicker.default {
+  background-color: #f7f7f7;
+  position: absolute;
+  top: 62px;
+}
+.date-h2{
+  width: 100%;
+  text-align: center;
+}
+.datepicker .datepicker-navbar{
+  display: none;
+}
